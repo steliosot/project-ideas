@@ -1,6 +1,6 @@
 
 ### Project title:
-* Automating deployments in GitHub codespaces
+* **Automating deployments in GitHub codespaces**
 
 ### Project category
 * Software Engineering - Development project
