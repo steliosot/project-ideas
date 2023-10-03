@@ -3,7 +3,7 @@
 * **Automating deployments in GitHub codespaces**
 
 ### Project category
-* Software Engineering - Development project
+* Software Engineering
 
 ### Key skill to have
 * Strong programming background in building APIs
