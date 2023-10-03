@@ -1,4 +1,4 @@
-Project title:
+##Project title:
 * Automating deployments in GitHub codespaces
 
 Project category
@@ -27,7 +27,10 @@ Difficulty level
 Resources:
 
 [1] GitHub Codespaces overview, https://docs.github.com/en/codespaces/overview
+
 [2] GitHub Codespaces API: https://docs.github.com/en/rest/codespaces?apiVersion=2022-11-28
+
 [3] Using REST to build a Go API: https://dev.to/karanpratapsingh/build-a-rest-api-with-go-for-beginners-3gp 
+
 [4] Complete Guide to Setting Up NodeJS and MongoDB on GitHub Codespaces: https://www.youtube.com/watch?v=ocPOHZJ21jE
 
