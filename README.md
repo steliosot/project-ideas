@@ -6,10 +6,10 @@
 * Development
 
 ### Required skills
-*	Knowledge of programming using Node.js or similar frameworks.
-*	Knowledge or willingness to learn Go.
-*	Fundamental knowledge of cloud computing and use of command line interfaces (Linux).
-*	Understanding of REST APIs and use of Docker.
+*	Knowledge of programming using `Node.js` or similar frameworks.
+*	Knowledge or willingness to learn `Go`.
+*	Fundamental knowledge of cloud computing and use of command line interfaces (`Linux`).
+*	Understanding of REST APIs and use of `Docker`.
 *	Knowledge of GitHub and the GitHub command line interface.
 
 ### Project idea
@@ -24,7 +24,7 @@
 
 ### Project outcome
 *	You will learn how to integrate custom software with the latest state-of-the-art systems.
-*	You will develop skills in REST API development using Node.js and Go.
+*	You will develop skills in REST API development using `Node.js` and `Go`.
 *	You will learn how to use modern DevOps pipelines for software development.
 
 ### Difficulty level
