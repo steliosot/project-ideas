@@ -19,12 +19,13 @@
 * [Link to video](https://www.dropbox.com/s/epdygv7iwaqy9i7/WIN_20231003_11_33_58_Pro.mp4?dl=0) 
 
 ### Support and resources
-*	You will be provided with access to Google Cloud platform or Amazon Web Services.
+*	You will be provided with access to the Google Cloud Platform or Amazon Web Services.
 *	You will be provided with seed repositories and other resources to start your developments.
 
 ### Project outcome
 *	You will learn how to integrate custom software with the latest state-of-the-art systems.
-*	You will develop skills on REST API development using Node.js and Go.
+*	You will develop skills in REST API development using Node.js and Go.
+*	You will learn how to use modern DevOps pipelines for software development.
 
 ### Difficulty level
 *	5/5
