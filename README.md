@@ -36,9 +36,9 @@ Watch the following project description video.
 *	Kickstart project ➡️ [Seed Node.js repository](https://github.com/steliosot/mini-hi)
 *	Kickstart project ➡️ Seed Go repository
 
-### Project outcome
-*	You will learn how to integrate custom software and build microservices.
-*	You will learn how to use popular cloud platforms.
+### Project learning outcomes and skills
+*	You will learn how to integrate custom software with `GitHub` and build microservices.
+*	You will learn how to use popular cloud platforms and deploy software on Kubernetes.
 *	You will develop skills in REST API development using `Node.js` and `Go`.
 *	You will learn how to use modern DevOps pipelines for software development.
 
