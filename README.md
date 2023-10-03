@@ -38,7 +38,7 @@ Watch the following project description video.
 
 ### Project learning outcomes and skills
 *	You will learn how to integrate custom software with `GitHub` and build microservices.
-*	You will learn how to use popular cloud platforms and deploy software on Kubernetes.
+*	You will learn how to use popular cloud platforms and deploy software on `Kubernetes`.
 *	You will develop skills in REST API development using `Node.js` and `Go`.
 *	You will learn how to use modern DevOps pipelines for software development.
 
