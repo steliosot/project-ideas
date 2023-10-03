@@ -10,7 +10,11 @@
 
 ### Relation with modules
 🏁 To undertake this project you should have already completed one or more of the following modules.
-* [Cloud computing](https://www.bbk.ac.uk/courses/modules/buci/BUCI029H7#content), [Software design and programming](https://www.bbk.ac.uk/courses/modules/coiy/COIY062H7#content), [Programming in Java](https://www.bbk.ac.uk/courses/modules/buci/BUCI033S7#content), [Software design and programming](https://www.bbk.ac.uk/courses/modules/coiy/COIY062H7#content), [Internet and web technologies](https://www.bbk.ac.uk/courses/modules/coiy/COIY063H7#content)
+* [Cloud computing](https://www.bbk.ac.uk/courses/modules/buci/BUCI029H7#content)
+* [Software design and programming](https://www.bbk.ac.uk/courses/modules/coiy/COIY062H7#content)
+* [Programming in Java](https://www.bbk.ac.uk/courses/modules/buci/BUCI033S7#content)
+* [Software design and programming](https://www.bbk.ac.uk/courses/modules/coiy/COIY062H7#content)
+* [Internet and web technologies](https://www.bbk.ac.uk/courses/modules/coiy/COIY063H7#content)
 
 ### Required skills
 *	Knowledge of programming using `Node.js` or similar frameworks.
@@ -47,5 +51,5 @@ Watch the following project description video.
  1. [GitHub Codespaces overview](https://docs.github.com/en/codespaces/overview)
  2. [GitHub Codespaces API](https://docs.github.com/en/rest/codespaces?apiVersion=2022-11-28)
  3. [Using REST to build a Go API](https://dev.to/karanpratapsingh/build-a-rest-api-with-go-for-beginners-3gp)
- 4. [Complete Guide to Setting Up NodeJS and MongoDB on GitHub](Codespaces, https://www.youtube.com/watch?v=ocPOHZJ21jE)
+ 4. [Complete Guide to Setting Up NodeJS and MongoDB on GitHub](https://www.youtube.com/watch?v=ocPOHZJ21jE)
  5. [Getting started guide](https://docs.github.com/en/rest/guides/getting-started-with-the-rest-api?apiVersion=2022-11-28)
