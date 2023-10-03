@@ -29,7 +29,8 @@ Watch the following project description video.
 ### Support and resources
 *	You will be provided with access to the Google Cloud Platform or Amazon Web Services.
 *	You will be provided with seed repositories and other resources to start your developments.
-*	Kickstart ➡️ [Seed Node.js repository](https://github.com/steliosot/mini-hi)
+*	Kickstart project ➡️ [Seed Node.js repository](https://github.com/steliosot/mini-hi)
+*	Kickstart project ➡️ Seed Go repository
 
 ### Project outcome
 *	You will learn how to integrate custom software and build microservices.
