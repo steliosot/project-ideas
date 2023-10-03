@@ -9,7 +9,7 @@
 * Strong programming background in building APIs
 
 ### Relation with modules
-:checkered_flag To undertake this project you should have already completed one or more of the following modules.
+🏁 To undertake this project you should have already completed one or more of the following modules.
 * [Cloud computing](https://www.bbk.ac.uk/courses/modules/buci/BUCI029H7#content), [Software design and programming](https://www.bbk.ac.uk/courses/modules/coiy/COIY062H7#content), [Programming in Java](https://www.bbk.ac.uk/courses/modules/buci/BUCI033S7#content),[Software design and programming](https://www.bbk.ac.uk/courses/modules/coiy/COIY062H7#content), [Internet and web technologies](https://www.bbk.ac.uk/courses/modules/coiy/COIY063H7#content)
 
 ### Required skills
