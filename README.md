@@ -1,4 +1,4 @@
-##Project title:
+Project title:
 * Automating deployments in GitHub codespaces
 
 Project category
