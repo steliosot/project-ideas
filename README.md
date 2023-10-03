@@ -17,7 +17,7 @@
 *	Knowledge or willingness to learn building APIs using `Go`.
 *	Fundamental knowledge of cloud computing and use of command line interfaces (`Linux`).
 *	Understanding of REST APIs and use of `Docker`.
-*	Knowledge of GitHub and the GitHub command line interface.
+*	Knowledge of `GitHub` and the `GitHub cli`.
 
 ### Project idea
 > GitHub codespaces are a popular way of running prototype cloud applications. Each codespace is hosted by GitHub in a Docker container, running on a virtual machine. The project aims to the development of a custom API backend to allow front-end applications or systems to interact with Codespaces, including user authorization, access delegation, initializing GitHub repositories using custom programming seeds, deploying prototype applications using custom virtual resources and, using the API to manage GitHub workspaces such as updating applications and capturing terminal outputs.
