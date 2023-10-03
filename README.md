@@ -5,15 +5,15 @@
 ### Project category
 * Development
 
-### Required skills.
+### Required skills
 *	Knowledge of programming using Node.js or similar frameworks.
 *	Knowledge or willingness to learn Go.
 *	Fundamental knowledge of cloud computing and use of command line interfaces (Linux).
 *	Understanding of REST APIs and use of Docker.
-*	Use of GitHub.
+*	Knowledge of GitHub and the GitHub command line interface.
 
 ### Project idea
-*	GitHub codespaces are a popular way of running prototype cloud applications. Each codespace is hosted by GitHub in a Docker container, running on a virtual machine. The project aims to the development of a custom API backend to allow front-end applications or systems to interact with Codespaces, including user authorization, access delegation, initializing GitHub repositories using custom programming seeds, deploying prototype applications and, in general, using the API to manage GitHub workspaces.
+*	GitHub codespaces are a popular way of running prototype cloud applications. Each codespace is hosted by GitHub in a Docker container, running on a virtual machine. The project aims to the development of a custom API backend to allow front-end applications or systems to interact with Codespaces, including user authorization, access delegation, initializing GitHub repositories using custom programming seeds, deploying prototype applications using custom virtual resources and, using the API to manage GitHub workspaces such as updating applications and capturing terminal outputs.
 
 ### Video description
 * [Link to video](https://www.dropbox.com/s/epdygv7iwaqy9i7/WIN_20231003_11_33_58_Pro.mp4?dl=0) 
@@ -29,7 +29,7 @@
 
 ### Difficulty level
 *	5/5
-*	This is a challenging project with a heavy implementation.
+*	This is a challenging project with a heavy implementation. The project implementation will be organized around features. Not all features need to be developed for this project.
 
 ### Resources:
 
