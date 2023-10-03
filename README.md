@@ -22,6 +22,7 @@
 > GitHub codespaces are a popular way of running prototype cloud applications. Each codespace is hosted by GitHub in a Docker container, running on a virtual machine. The project aims to the development of a custom API backend to allow front-end applications or systems to interact with Codespaces, including user authorization, access delegation, initializing GitHub repositories using custom programming seeds, deploying prototype applications using custom virtual resources and, using the API to manage GitHub workspaces such as updating applications and capturing terminal outputs.
 
 ### Video description
+Watch the following video for the project description.
 * [Link to video](https://www.dropbox.com/s/epdygv7iwaqy9i7/WIN_20231003_11_33_58_Pro.mp4?dl=0) 
 
 ### Support and resources
