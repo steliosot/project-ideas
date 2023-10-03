@@ -3,11 +3,14 @@
 * Automating deployments in GitHub codespaces
 
 ### Project category
-* Development
+* Software Engineering - Development project
+
+### Key skill
+* Strong programming background
 
 ### Required skills
 *	Knowledge of programming using `Node.js` or similar frameworks.
-*	Knowledge or willingness to learn `Go`.
+*	Knowledge or willingness to learn building APIs using `Go`.
 *	Fundamental knowledge of cloud computing and use of command line interfaces (`Linux`).
 *	Understanding of REST APIs and use of `Docker`.
 *	Knowledge of GitHub and the GitHub command line interface.
@@ -23,7 +26,8 @@
 *	You will be provided with seed repositories and other resources to start your developments.
 
 ### Project outcome
-*	You will learn how to integrate custom software with the latest state-of-the-art systems.
+*	You will learn how to integrate custom software and build microservices.
+*	You will learn how to use popular cloud platforms.
 *	You will develop skills in REST API development using `Node.js` and `Go`.
 *	You will learn how to use modern DevOps pipelines for software development.
 
