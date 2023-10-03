@@ -35,12 +35,13 @@
 *	You will learn how to use modern DevOps pipelines for software development.
 
 ### Difficulty level
-*	5/5
-*	This is a challenging project with a heavy implementation. The project implementation will be organized around features. Not all features need to be developed for this project.
+*	**5/5**
+>	This is a challenging project with a heavy implementation. The project implementation will be organized around features. Not all features need to be developed for this project.
 
 ### Resources:
 
  1. GitHub Codespaces overview, https://docs.github.com/en/codespaces/overview
  2. GitHub Codespaces API, https://docs.github.com/en/rest/codespaces?apiVersion=2022-11-28
  3. Using REST to build a Go API, https://dev.to/karanpratapsingh/build-a-rest-api-with-go-for-beginners-3gp
- 4. Complete Guide to Setting Up NodeJS and MongoDB on GitHub, Codespaces: https://www.youtube.com/watch?v=ocPOHZJ21jE
+ 4. Complete Guide to Setting Up NodeJS and MongoDB on GitHub, Codespaces, https://www.youtube.com/watch?v=ocPOHZJ21jE
+ 5. Getting started guide, https://docs.github.com/en/rest/guides/getting-started-with-the-rest-api?apiVersion=2022-11-28
