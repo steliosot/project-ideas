@@ -23,7 +23,7 @@
 ### Required background
 
 *	Knowledge of machine learning methods such as  `Convolutional Neural Network (CNN)`, `Recurrent Neural Network (RNN)` or similar methods.
-*	Knowledge of programming with `Python` for data collection and cl.
+*	Knowledge of programming with `Python` for data collection and cleaning.
 *	Fundamental understanding or willingness to learn software development methods such as object-oriented programming.
 *	Knowledge of libraries such as `Scikit-learn`, `Keras`, `Pyspark` and others for data modelling.
 *	Fundamental understanding or willingness to learn time series data analysis such as `Dynamic time warping` [1], `ARIMA` [2] and others.
