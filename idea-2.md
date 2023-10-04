@@ -4,7 +4,7 @@
 
 ### Project category
 
-* Data Science
+* Data Science (research and development)
 
 ### Key skill
 
@@ -26,8 +26,8 @@
 *	Knowledge of programming with `Python` for data collection and cl.
 *	Fundamental understanding or willingness to learn software development methods such as object-oriented programming.
 *	Knowledge of libraries such as `Scikit-learn`, `Keras`, `Pyspark` and others for data modelling.
-*	Fundamental understanding or willingness to learn time series data analysis such as `Dynamic time warping` [1], `ARIMA` [2], `Fréchet distance` [3] or others.
-*	Fundamental understanding or willingness to learn monitoring services such as `Prometheus` [4], `Graffana` [5] or others.
+*	Fundamental understanding or willingness to learn time series data analysis such as `Dynamic time warping` [1], `ARIMA` [2] and others.
+*	Fundamental understanding or willingness to learn monitoring services such as `Prometheus` [3] and visualization services such as `Graffana` [4] and others.
 *	Willingness to work with industry-standard benchmarks and workloads for relational/non-relational databases.
 
 ### Dataset
@@ -71,12 +71,18 @@ Watch the following project description video.
 
 *	**4/5**
 
->	This is a challenging project with data-science-related implementations. The project implementation will be organized around features. **Not all features need to be developed for this project.**
+>	This is a challenging project with data-science-related implementations. The project implementation will be organized into features. **Not all features need to be developed for this project.**
 
 ### Resources:
 
-  1. [GitHub Codespaces overview](https://docs.github.com/en/codespaces/overview)
-  2. [GitHub Codespaces API](https://docs.github.com/en/rest/codespaces?apiVersion=2022-11-28)
-  3. [Using REST to build a Go API](https://dev.to/karanpratapsingh/build-a-rest-api-with-go-for-beginners-3gp)
-  4. [Complete Guide to Setting Up NodeJS and MongoDB on GitHub](https://www.youtube.com/watch?v=ocPOHZJ21jE)
-  5. [Getting started guide](https://docs.github.com/en/rest/guides/getting-started-with-the-rest-api?apiVersion=2022-11-28)
+  1. [Databricks article: Understanding Dynamic Time Warping](https://docs.github.com/en/codespaces/overview)
+  2. [Autoregressive Integrated Moving Average (ARIMA) Prediction Model](https://www.investopedia.com/terms/a/autoregressive-integrated-moving-average-arima.asp)
+  3. [Prometheus monitoging system](https://prometheus.io)
+  4. [Grafana labs](https://www.youtube.com/watch?v=ocPOHZJ21jE)
+  5. S. Chouliaras and S. Sotiriadis, [Real-Time Anomaly Detection of NoSQL Systems Based on Resource Usage Monitoring](https://ieeexplore.ieee.org/abstract/document/8930068) in *IEEE Transactions on Industrial Informatics*, vol. 16, no. 9, pp. 6042-6049, Sept. 2020, doi: 10.1109/TII.2019.2958606.
+  6. S. Chouliaras and S. Sotiriadis, [Towards constrained optimization of cloud applications: A hybrid approach](https://www.sciencedirect.com/science/article/pii/S0167739X23003539),
+     *Future Generation Computer Systems*, 2023, doi: 10.1016/j.future.2023.09.024
+  7. S. Chouliaras and S. Sotiriadis, [An adaptive auto-scaling framework for cloud resource provisioning](https://www.sciencedirect.com/science/article/pii/S0167739X23002005),
+     Future Generation Computer Systems, Volume 148, 2023, Pages 173-183, ISSN 0167-739X,
+     doi: 10.1016/j.future.2023.05.017
+  8. A. Bhattacharyya, S. A. J. Jandaghi, S. Sotiriadis and C. Amza, [Semantic Aware Online Detection of Resource Anomalies on the Cloud](https://www.eecg.toronto.edu/~amza/papers/cloudcom.pdf) *2016 IEEE International Conference on Cloud Computing Technology and Science (CloudCom)*, Luxembourg, Luxembourg, 2016, pp. 134-143, doi: 10.1109/CloudCom.2016.0035
